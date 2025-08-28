@@ -2,12 +2,9 @@
 
 Terraform module which creates OCI (Oracle Cloud Infrastructure) resources
 
-## To Launch the k8s cluster, follow the below Document:
-https://core.digit.org/guides/installation-guide/production-setup
+## Follow the instruction given on the below link for the UPYOG Application deployment on OCI:
 
-## To Launch quick start setup, follow the below Document:
-https://core.digit.org/guides/installation-guide/quick-setup
-
+https://upyog-docs.gitbook.io/upyog-v-2.0/upyog-1/platform/setup-upyog/full-installation-guide
 
 # Please follow instructions for setting up Terraform for OCI
 
